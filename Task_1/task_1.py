@@ -1,8 +1,12 @@
 import numpy as np
+from sympy import isprime
+import logging
+import os
 
 from qiskit.extensions import ZGate
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
-from utils import execute_circuit, single_qubit_state_preparation, Schmidt_decomposition_based_preparation
+from utils import execute_circuit, Schmidt_decomposition_based_preparation
+from utils import log, parallelize
 
 def quantum_adder(n_bits:int):
     '''
@@ -154,7 +158,7 @@ def Grover(A_gate, S_f_gate, n_qubits:int):
     return Grover_gate
 
 
-def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=10, N_shoots:int=5, max_iterations:int=5):
+def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=10, N_shoots:int=5, max_iterations:int=5, logger=None):
     '''
     This function finds the two prime numbers that make up the number_1. (Goldbach's conjecture)
 
@@ -178,6 +182,9 @@ def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=1
     '''
 
     ''' ---------------------- Problem Setup ---------------------- '''
+
+    logger = logger if logger is not None else log('Task_1', 'TASK 1 - Goldbach\'s conjecture')
+    logging_block = '\n\tNumber to be decomposed: ' + str(number_1)
 
     # Identify the number of qubits needed to represent the largest number in the list of prime numbers.
     max_number = np.max(list_primes)
@@ -211,9 +218,8 @@ def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=1
     ---------------------------------------------------------------- '''
 
     while n_try < max_tries:
-        print()
-        print(f'\tTry {n_try+1} of {max_tries} tries.')
-        print('\tNumber of iterations:', n_iterations)
+        logging_block += f'\n\tTry {n_try+1} of {max_tries} tries.'
+        logging_block += f'\n\tNumber of iterations: {n_iterations}'
 
         number_of_operations += np.array([ 2*n_iterations + 1, n_iterations]) * N_shoots
 
@@ -258,14 +264,14 @@ def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=1
         ''' ---------------------------------------------------------------- '''
 
         if results_values is not None:
-            print(f'\n\tClassical Number of Addition Operations: {len(list_primes)**2}')
-            print(f'\tClassical Number of Search Operations: {len(list_primes)**2}')
-            print(f'\tNumber of Addition Operations: {number_of_operations[0]}')
-            print(f'\tNumber of Search Operations: {number_of_operations[1]}')
-            return number_1 - results_values[1], results_values[1]
+            logging_block += f'\n\tNumber of Addition Operations: {number_of_operations[0]}'
+            logging_block += f'\n\tNumber of Search Operations: {number_of_operations[1]}'
+            logging_block += f'\n\tResults: {number_1 - results_values[1]}, {results_values[1]}'
+            logger.info(logging_block)
+            return number_1 - results_values[1], results_values[1], *number_of_operations
 
         if n_iterations == max_iterations:
-            print('\tThe maximum number of iterations is reached.')
+            logging_block += '\n\tThe maximum number of iterations is reached.'
             n_iterations = 1
             n_try += 1
             continue
@@ -274,6 +280,61 @@ def find_the_primes_numbers(number_1:int, list_primes:list[int], max_tries:int=1
         n_try += 1
 
     # If the results are not found,
-    print('\tThe maximum number of tries is reached.')
-    print('\tThe results were not found.')
+    logging_block += '\n\tThe maximum number of tries is reached.'
+    logging_block += '\n\tThe results were not found.'
+    logger.info(logging_block)
     return None
+
+if __name__ == '__main__':
+
+    qiskit_logger = logging.getLogger('qiskit')
+    qiskit_logger.setLevel(logging.ERROR)
+
+    logger = log('Task_1', 'TASK 1 - Goldbach\'s conjecture')
+
+    max_tries = 10
+    N_shoots = 5
+    max_iterations = 5
+
+    # Numbers of repeatition of the algorithm
+    N = 10
+    N_iterator = np.arange(1, N+1)
+
+    # Numbers to be decomposed into prime numbers
+    Numbers = np.arange(2, 102, 2)
+
+
+    def iterator_function(N_iterator):
+        for it in N_iterator:
+            # Make header for iteration
+                             
+            result_list = []
+            number_solved = 0
+            n_to_solve = len(Numbers)
+
+            for i, n in enumerate(Numbers):
+                logger.info(f'\n ------ Iteration: {it}/{N} Number solved: {number_solved}/{n_to_solve} Correctly Solved: {number_solved}/{i}')
+                list_primes = [1] + [n if isprime(n) else None for n in range(2, n+1)]
+                list_primes = [n for n in list_primes if n is not None]
+                res = find_the_primes_numbers(n, list_primes, max_tries=max_tries, N_shoots=N_shoots, max_iterations=max_iterations, logger=logger)
+                result_list.append(res)
+                number_solved += 1 if res is not None else 0
+
+            results = np.array(result_list)
+
+            path_to_save = 'Results/'
+
+            if not os.path.exists(path_to_save):
+                os.makedirs(path_to_save)
+
+            filename = f'results_{it}.npy'
+
+            with open(path_to_save + filename, 'wb') as f:
+                logger.info(f'\n  Saving results in {path_to_save + filename}')
+                np.save(f, results)
+
+            print(f'\n ------ Iteration: {it}/{N} Number solved: {number_solved}/{n_to_solve} Correctly Solved: {number_solved}/{n_to_solve}')
+    
+
+    parallelize('Task_1', iterator_function, N_iterator, n_process=5, logger=logger)
+    logger.footer()

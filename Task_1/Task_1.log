@@ -1,0 +1,4766 @@
+Starting Parallelization for Task_1 with 10 values. Number of processes: 5 
+
+ ------ Iteration: 1/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+ ------ Iteration: 3/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+ ------ Iteration: 5/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+ ------ Iteration: 7/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+ ------ Iteration: 9/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 1, 1 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 1, 1 
+
+ ------ Iteration: 3/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+ ------ Iteration: 1/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 1 
+
+ ------ Iteration: 5/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 1 
+
+ ------ Iteration: 7/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 21
+	Results: 1, 1 
+
+ ------ Iteration: 9/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 2, 2 
+
+ ------ Iteration: 3/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 2, 2 
+
+ ------ Iteration: 1/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 3 
+
+ ------ Iteration: 7/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 3 
+
+ ------ Iteration: 5/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 3 
+
+ ------ Iteration: 9/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 3 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 3 
+
+ ------ Iteration: 1/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+ ------ Iteration: 3/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 1 
+
+ ------ Iteration: 7/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 1 
+
+ ------ Iteration: 5/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 3 
+
+ ------ Iteration: 9/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 7 
+
+ ------ Iteration: 3/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 1 
+
+ ------ Iteration: 1/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 7 
+
+ ------ Iteration: 5/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 5 
+
+ ------ Iteration: 7/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 1 
+
+ ------ Iteration: 9/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 3 
+
+ ------ Iteration: 3/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 5 
+
+ ------ Iteration: 1/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 7 
+
+ ------ Iteration: 5/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 7 
+
+ ------ Iteration: 7/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 3 
+
+ ------ Iteration: 9/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 7 
+
+ ------ Iteration: 3/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 5 
+
+ ------ Iteration: 5/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 5 
+
+ ------ Iteration: 7/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 5, 7 
+
+ ------ Iteration: 1/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 5 
+
+ ------ Iteration: 9/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 11 
+
+ ------ Iteration: 3/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 3 
+
+ ------ Iteration: 7/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 11 
+
+ ------ Iteration: 1/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 7 
+
+ ------ Iteration: 9/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 7 
+
+ ------ Iteration: 5/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 3, 13 
+
+ ------ Iteration: 3/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 11 
+
+ ------ Iteration: 1/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 11 
+
+ ------ Iteration: 9/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 13 
+
+ ------ Iteration: 7/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 13 
+
+ ------ Iteration: 5/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 17 
+
+ ------ Iteration: 3/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 7, 11 
+
+ ------ Iteration: 1/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 11 
+
+ ------ Iteration: 5/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 1 
+
+ ------ Iteration: 7/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 5, 13 
+
+ ------ Iteration: 9/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 7 
+
+ ------ Iteration: 3/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 3 
+
+ ------ Iteration: 1/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 19 
+
+ ------ Iteration: 5/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 1 
+
+ ------ Iteration: 9/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 1 
+
+ ------ Iteration: 7/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 17, 5 
+
+ ------ Iteration: 3/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 17 
+
+ ------ Iteration: 1/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 19 
+
+ ------ Iteration: 5/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 3 
+
+ ------ Iteration: 9/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 11 
+
+ ------ Iteration: 7/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 23 
+
+ ------ Iteration: 1/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 1 
+
+ ------ Iteration: 3/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 13, 11 
+
+ ------ Iteration: 5/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 19 
+
+ ------ Iteration: 9/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 19, 5 
+
+ ------ Iteration: 7/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 19 
+
+ ------ Iteration: 3/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 3 
+
+ ------ Iteration: 1/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 3 
+
+ ------ Iteration: 5/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 3 
+
+ ------ Iteration: 9/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 13 
+
+ ------ Iteration: 7/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 11 
+
+ ------ Iteration: 3/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 11 
+
+ ------ Iteration: 1/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 23 
+
+ ------ Iteration: 9/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 23 
+
+ ------ Iteration: 5/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 5 
+
+ ------ Iteration: 7/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 11 
+
+ ------ Iteration: 1/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 7, 23 
+
+ ------ Iteration: 3/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 23 
+
+ ------ Iteration: 9/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 7 
+
+ ------ Iteration: 5/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 1 
+
+ ------ Iteration: 7/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 29 
+
+ ------ Iteration: 1/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 13 
+
+ ------ Iteration: 3/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 3 
+
+ ------ Iteration: 9/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 31, 1 
+
+ ------ Iteration: 5/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 5 
+
+ ------ Iteration: 1/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 3 
+
+ ------ Iteration: 3/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 5, 29 
+
+ ------ Iteration: 5/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 19, 17 
+
+ ------ Iteration: 1/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 3, 29 
+
+ ------ Iteration: 7/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 7 
+
+ ------ Iteration: 3/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 19 
+
+ ------ Iteration: 5/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 23, 11 
+
+ ------ Iteration: 9/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 11 
+
+ ------ Iteration: 7/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 37 
+
+ ------ Iteration: 1/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 17 
+
+ ------ Iteration: 7/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 7, 29 
+
+ ------ Iteration: 9/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 3 
+
+ ------ Iteration: 1/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 1 
+
+ ------ Iteration: 1/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 1, 37 
+
+ ------ Iteration: 5/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 31 
+
+ ------ Iteration: 1/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 19 
+
+ ------ Iteration: 7/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 7, 31 
+
+ ------ Iteration: 9/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 17 
+
+ ------ Iteration: 1/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 37 
+
+ ------ Iteration: 7/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 3 
+
+ ------ Iteration: 9/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 37, 1 
+
+ ------ Iteration: 3/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 37, 3 
+
+ ------ Iteration: 5/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 43 
+
+ ------ Iteration: 1/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 19 
+
+ ------ Iteration: 7/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 1 
+
+ ------ Iteration: 9/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 29 
+
+ ------ Iteration: 3/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 5 
+
+ ------ Iteration: 5/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 7 
+
+ ------ Iteration: 7/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 7 
+
+ ------ Iteration: 9/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 29, 13 
+
+ ------ Iteration: 3/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 43, 1 
+
+ ------ Iteration: 5/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 29 
+
+ ------ Iteration: 7/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 7 
+
+ ------ Iteration: 3/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 29 
+
+ ------ Iteration: 5/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 31, 19 
+
+ ------ Iteration: 1/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 11 
+
+ ------ Iteration: 7/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 5 
+
+ ------ Iteration: 1/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 41 
+
+ ------ Iteration: 5/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 43, 3 
+
+ ------ Iteration: 9/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 43 
+
+ ------ Iteration: 5/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 47 
+
+ ------ Iteration: 1/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 47 
+
+ ------ Iteration: 9/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 43, 3 
+
+ ------ Iteration: 3/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 5 
+
+ ------ Iteration: 5/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 43 
+
+ ------ Iteration: 1/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 7 
+
+ ------ Iteration: 9/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 11 
+
+ ------ Iteration: 3/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 47 
+
+ ------ Iteration: 5/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 11 
+
+ ------ Iteration: 1/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 47, 5 
+
+ ------ Iteration: 9/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 31 
+
+ ------ Iteration: 3/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 1 
+
+ ------ Iteration: 9/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 44
+	Results: 13, 37 
+
+ ------ Iteration: 7/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 37 
+
+ ------ Iteration: 5/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 37, 23 
+
+ ------ Iteration: 1/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 29 
+
+ ------ Iteration: 7/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 11, 41 
+
+ ------ Iteration: 3/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 47 
+
+ ------ Iteration: 5/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 31 
+
+ ------ Iteration: 1/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 43 
+
+ ------ Iteration: 7/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 13, 43 
+
+ ------ Iteration: 9/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 17 
+
+ ------ Iteration: 3/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 37, 23 
+
+ ------ Iteration: 5/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 53 
+
+ ------ Iteration: 1/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 53 
+
+ ------ Iteration: 7/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 11 
+
+ ------ Iteration: 9/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 13 
+
+ ------ Iteration: 3/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 23 
+
+ ------ Iteration: 1/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 7 
+
+ ------ Iteration: 9/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 29 
+
+ ------ Iteration: 3/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 37 
+
+ ------ Iteration: 3/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 59 
+
+ ------ Iteration: 5/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 61 
+
+ ------ Iteration: 3/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 47 
+
+ ------ Iteration: 5/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 1 
+
+ ------ Iteration: 1/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 19, 43 
+
+ ------ Iteration: 9/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 59 
+
+ ------ Iteration: 3/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 7 
+
+ ------ Iteration: 5/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 53 
+
+ ------ Iteration: 9/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 44
+	Results: 29, 29 
+
+ ------ Iteration: 7/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 29 
+
+ ------ Iteration: 9/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 11 
+
+ ------ Iteration: 1/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 37, 29 
+
+ ------ Iteration: 3/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 37 
+
+ ------ Iteration: 5/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 13, 47 
+
+ ------ Iteration: 7/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 7 
+
+ ------ Iteration: 9/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 61 
+
+ ------ Iteration: 1/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 3 
+
+ ------ Iteration: 7/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 53 
+
+ ------ Iteration: 7/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 37 
+
+ ------ Iteration: 7/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 73 
+
+ ------ Iteration: 1/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 67, 1 
+
+ ------ Iteration: 3/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 53, 17 
+
+ ------ Iteration: 5/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 23, 47 
+
+ ------ Iteration: 9/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 3 
+
+ ------ Iteration: 3/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 11 
+
+ ------ Iteration: 5/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 31 
+
+ ------ Iteration: 9/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 43 
+
+ ------ Iteration: 5/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 71 
+
+ ------ Iteration: 9/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 59 
+
+ ------ Iteration: 5/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 43, 29 
+
+ ------ Iteration: 3/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 31, 37 
+
+ ------ Iteration: 7/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 61 
+
+ ------ Iteration: 5/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 47, 29 
+
+ ------ Iteration: 1/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 73 
+
+ ------ Iteration: 3/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 61 
+
+ ------ Iteration: 5/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 73 
+
+ ------ Iteration: 1/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 5, 71 
+
+ ------ Iteration: 9/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 29 
+
+ ------ Iteration: 3/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 79, 1 
+
+ ------ Iteration: 1/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 37 
+
+ ------ Iteration: 9/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 19 
+
+ ------ Iteration: 3/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 47, 23 
+
+ ------ Iteration: 7/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 19 
+
+ ------ Iteration: 9/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 53 
+
+ ------ Iteration: 7/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 59, 23 
+
+ ------ Iteration: 5/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 53 
+
+ ------ Iteration: 9/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 31 
+
+ ------ Iteration: 7/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 23 
+
+ ------ Iteration: 5/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 53, 29 
+
+ ------ Iteration: 1/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 73 
+
+ ------ Iteration: 9/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 1, 79 
+
+ ------ Iteration: 3/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 83, 3 
+
+ ------ Iteration: 5/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 79 
+
+ ------ Iteration: 1/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 79 
+
+ ------ Iteration: 3/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 5, 71 
+
+ ------ Iteration: 7/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 83, 3 
+
+ ------ Iteration: 9/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 31, 47 
+
+ ------ Iteration: 7/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 47, 41 
+
+ ------ Iteration: 5/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 83 
+
+ ------ Iteration: 1/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 5, 79 
+
+ ------ Iteration: 3/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 67 
+
+ ------ Iteration: 7/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 83 
+
+ ------ Iteration: 1/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 23, 59 
+
+ ------ Iteration: 7/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 71, 17 
+
+ ------ Iteration: 9/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 61 
+
+ ------ Iteration: 7/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 47, 43 
+
+ ------ Iteration: 5/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 83, 3 
+
+ ------ Iteration: 3/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 59, 31 
+
+ ------ Iteration: 1/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 67, 23 
+
+ ------ Iteration: 9/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 73 
+
+ ------ Iteration: 1/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 83 
+
+ ------ Iteration: 7/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 89 
+
+ ------ Iteration: 1/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 41, 47 
+
+ ------ Iteration: 3/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 83 
+
+ ------ Iteration: 7/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 67 
+
+ ------ Iteration: 1/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 23 
+
+ ------ Iteration: 3/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 73 
+
+ ------ Iteration: 9/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 79, 19 
+
+ ------ Iteration: 1/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 44
+	Results: 89, 3 
+
+ ------ Iteration: 5/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 31 
+
+ ------ Iteration: 3/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 53 
+
+ ------ Iteration: 9/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 89 
+
+  Saving results in Results/results_1.npy 
+
+ ------ Iteration: 2/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 1, 1 
+
+ ------ Iteration: 2/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 3 
+
+ ------ Iteration: 2/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 5 
+
+ ------ Iteration: 2/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 7 
+
+ ------ Iteration: 2/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 5 
+
+ ------ Iteration: 2/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 1 
+
+ ------ Iteration: 2/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 53 
+
+ ------ Iteration: 5/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 53 
+
+ ------ Iteration: 3/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 1 
+
+ ------ Iteration: 2/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 73, 17 
+
+ ------ Iteration: 7/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 13 
+
+ ------ Iteration: 2/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 7 
+
+ ------ Iteration: 2/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 89, 7 
+
+ ------ Iteration: 9/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 19 
+
+ ------ Iteration: 2/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 11 
+
+ ------ Iteration: 2/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 83, 13 
+
+ ------ Iteration: 5/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 7 
+
+ ------ Iteration: 2/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 89 
+
+ ------ Iteration: 7/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 23 
+
+ ------ Iteration: 2/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 5, 23 
+
+ ------ Iteration: 2/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 79, 19 
+
+ ------ Iteration: 9/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 7 
+
+ ------ Iteration: 2/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 31 
+
+ ------ Iteration: 5/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 83, 11 
+
+ ------ Iteration: 7/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 29, 3 
+
+ ------ Iteration: 2/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 31, 3 
+
+ ------ Iteration: 2/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 23 
+
+ ------ Iteration: 2/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 23, 73 
+
+ ------ Iteration: 3/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 17, 79 
+
+ ------ Iteration: 7/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 79 
+
+ ------ Iteration: 3/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 29, 71 
+
+  Saving results in Results/results_9.npy 
+
+ ------ Iteration: 10/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 1 
+
+ ------ Iteration: 10/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 2, 2 
+
+ ------ Iteration: 10/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 5, 1 
+
+ ------ Iteration: 10/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 7, 1 
+
+ ------ Iteration: 10/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 5 
+
+ ------ Iteration: 10/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 37, 1 
+
+ ------ Iteration: 2/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 5 
+
+ ------ Iteration: 10/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 3 
+
+ ------ Iteration: 10/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 13 
+
+ ------ Iteration: 10/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 17, 23 
+
+ ------ Iteration: 2/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 17, 83 
+
+  Saving results in Results/results_5.npy 
+
+ ------ Iteration: 6/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 21
+	Results: 1, 1 
+
+ ------ Iteration: 6/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 3, 1 
+
+ ------ Iteration: 6/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 1, 5 
+
+ ------ Iteration: 6/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 5 
+
+ ------ Iteration: 6/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 5, 5 
+
+ ------ Iteration: 6/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 5 
+
+ ------ Iteration: 6/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 17, 1 
+
+ ------ Iteration: 10/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 11, 3 
+
+ ------ Iteration: 6/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 37 
+
+ ------ Iteration: 2/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 13 
+
+ ------ Iteration: 10/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 13 
+
+ ------ Iteration: 6/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 19, 3 
+
+ ------ Iteration: 10/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 13 
+
+ ------ Iteration: 6/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 7 
+
+ ------ Iteration: 2/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 17 
+
+ ------ Iteration: 10/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 17 
+
+ ------ Iteration: 6/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 29 
+
+ ------ Iteration: 2/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 19 
+
+ ------ Iteration: 10/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 5 
+
+ ------ Iteration: 6/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 61, 37 
+
+ ------ Iteration: 7/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 23 
+
+ ------ Iteration: 10/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 19 
+
+ ------ Iteration: 6/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 11 
+
+ ------ Iteration: 2/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 1 
+
+ ------ Iteration: 10/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 13 
+
+ ------ Iteration: 6/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 1 
+
+ ------ Iteration: 10/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 19 
+
+ ------ Iteration: 2/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 11 
+
+ ------ Iteration: 6/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 89, 11 
+
+  Saving results in Results/results_3.npy 
+
+ ------ Iteration: 4/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 1 
+
+ ------ Iteration: 4/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 3 
+
+ ------ Iteration: 4/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 1 
+
+ ------ Iteration: 4/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 7 
+
+ ------ Iteration: 4/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 7 
+
+ ------ Iteration: 4/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 17 
+
+ ------ Iteration: 10/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 1, 11 
+
+ ------ Iteration: 4/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 7 
+
+ ------ Iteration: 6/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 13 
+
+ ------ Iteration: 4/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 83, 17 
+
+  Saving results in Results/results_7.npy 
+
+ ------ Iteration: 8/10 Number solved: 0/50 Correctly Solved: 0/0 
+
+	Number to be decomposed: 2
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 21
+	Results: 1, 1 
+
+ ------ Iteration: 8/10 Number solved: 1/50 Correctly Solved: 1/1 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 47 
+
+ ------ Iteration: 2/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 4
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 1, 3 
+
+ ------ Iteration: 8/10 Number solved: 2/50 Correctly Solved: 2/2 
+
+	Number to be decomposed: 6
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 3 
+
+ ------ Iteration: 8/10 Number solved: 3/50 Correctly Solved: 3/3 
+
+	Number to be decomposed: 8
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 7 
+
+ ------ Iteration: 8/10 Number solved: 4/50 Correctly Solved: 4/4 
+
+	Number to be decomposed: 10
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 5 
+
+ ------ Iteration: 8/10 Number solved: 5/50 Correctly Solved: 5/5 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 13 
+
+ ------ Iteration: 10/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 7
+	Results: 5, 11 
+
+ ------ Iteration: 4/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 29, 3 
+
+ ------ Iteration: 6/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 12
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 7, 5 
+
+ ------ Iteration: 8/10 Number solved: 6/50 Correctly Solved: 6/6 
+
+	Number to be decomposed: 14
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 8
+	Results: 3, 11 
+
+ ------ Iteration: 8/10 Number solved: 7/50 Correctly Solved: 7/7 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 1 
+
+ ------ Iteration: 4/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 53 
+
+ ------ Iteration: 2/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 5 
+
+ ------ Iteration: 6/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 19 
+
+ ------ Iteration: 10/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 16
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 3 
+
+ ------ Iteration: 8/10 Number solved: 8/50 Correctly Solved: 8/8 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 1 
+
+ ------ Iteration: 4/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 29 
+
+ ------ Iteration: 6/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 18
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 17 
+
+ ------ Iteration: 8/10 Number solved: 9/50 Correctly Solved: 9/9 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 5 
+
+ ------ Iteration: 4/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 20
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 13, 7 
+
+ ------ Iteration: 8/10 Number solved: 10/50 Correctly Solved: 10/10 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 37 
+
+ ------ Iteration: 6/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 1 
+
+ ------ Iteration: 4/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 22
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 19 
+
+ ------ Iteration: 8/10 Number solved: 11/50 Correctly Solved: 11/11 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 7 
+
+ ------ Iteration: 4/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 3 
+
+ ------ Iteration: 6/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 24
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 13 
+
+ ------ Iteration: 8/10 Number solved: 12/50 Correctly Solved: 12/12 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 53, 3 
+
+ ------ Iteration: 2/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 23
+	Results: 11, 29 
+
+ ------ Iteration: 10/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 11 
+
+ ------ Iteration: 4/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 29 
+
+ ------ Iteration: 6/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 19 
+
+ ------ Iteration: 4/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 13 
+
+ ------ Iteration: 10/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 26
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 23 
+
+ ------ Iteration: 8/10 Number solved: 13/50 Correctly Solved: 13/13 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 31 
+
+ ------ Iteration: 6/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 3 
+
+ ------ Iteration: 10/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 28
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 23, 5 
+
+ ------ Iteration: 8/10 Number solved: 14/50 Correctly Solved: 14/14 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 29, 3 
+
+ ------ Iteration: 4/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 23 
+
+ ------ Iteration: 6/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 47, 11 
+
+ ------ Iteration: 2/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 30
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 19 
+
+ ------ Iteration: 8/10 Number solved: 15/50 Correctly Solved: 15/15 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 3 
+
+ ------ Iteration: 10/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 11 
+
+ ------ Iteration: 4/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 32
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 13, 19 
+
+ ------ Iteration: 8/10 Number solved: 16/50 Correctly Solved: 16/16 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 31, 5 
+
+ ------ Iteration: 4/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 41 
+
+ ------ Iteration: 2/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 31 
+
+ ------ Iteration: 6/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 1 
+
+ ------ Iteration: 10/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 34
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 11 
+
+ ------ Iteration: 8/10 Number solved: 17/50 Correctly Solved: 17/17 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 37 
+
+ ------ Iteration: 4/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 31 
+
+ ------ Iteration: 2/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 31 
+
+ ------ Iteration: 10/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 11 
+
+ ------ Iteration: 4/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 61 
+
+ ------ Iteration: 2/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 36
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 31, 5 
+
+ ------ Iteration: 8/10 Number solved: 18/50 Correctly Solved: 18/18 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 5 
+
+ ------ Iteration: 10/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 13, 37 
+
+ ------ Iteration: 6/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 29 
+
+ ------ Iteration: 2/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 37 
+
+ ------ Iteration: 4/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 38
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 19, 19 
+
+ ------ Iteration: 8/10 Number solved: 19/50 Correctly Solved: 19/19 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 23 
+
+ ------ Iteration: 10/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 13 
+
+ ------ Iteration: 4/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 40
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 3 
+
+ ------ Iteration: 8/10 Number solved: 20/50 Correctly Solved: 20/20 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 37, 19 
+
+ ------ Iteration: 10/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 23 
+
+ ------ Iteration: 4/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 42
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 13 
+
+ ------ Iteration: 8/10 Number solved: 21/50 Correctly Solved: 21/21 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 53 
+
+ ------ Iteration: 10/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 29, 19 
+
+ ------ Iteration: 4/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 44
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 37 
+
+ ------ Iteration: 8/10 Number solved: 22/50 Correctly Solved: 22/22 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 7 
+
+ ------ Iteration: 4/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 46
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 43 
+
+ ------ Iteration: 8/10 Number solved: 23/50 Correctly Solved: 23/23 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 41 
+
+ ------ Iteration: 10/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 41 
+
+ ------ Iteration: 4/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 11, 41 
+
+ ------ Iteration: 6/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 19 
+
+ ------ Iteration: 10/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 23 
+
+ ------ Iteration: 4/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 1 
+
+ ------ Iteration: 6/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 48
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 29, 19 
+
+ ------ Iteration: 8/10 Number solved: 24/50 Correctly Solved: 24/24 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 3, 53 
+
+ ------ Iteration: 4/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 3 
+
+ ------ Iteration: 10/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 50
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 3, 47 
+
+ ------ Iteration: 8/10 Number solved: 25/50 Correctly Solved: 25/25 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 53 
+
+ ------ Iteration: 10/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 53, 5 
+
+ ------ Iteration: 4/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 1, 67 
+
+ ------ Iteration: 2/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 29 
+
+ ------ Iteration: 4/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 41 
+
+ ------ Iteration: 2/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 43 
+
+ ------ Iteration: 4/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 41 
+
+ ------ Iteration: 4/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 52
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 29, 23 
+
+ ------ Iteration: 8/10 Number solved: 26/50 Correctly Solved: 26/26 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 7 
+
+ ------ Iteration: 4/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 54
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 1 
+
+ ------ Iteration: 8/10 Number solved: 27/50 Correctly Solved: 27/27 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 3 
+
+ ------ Iteration: 8/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 56
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Try 4 of 10 tries.
+	Number of iterations: 4
+	Number of Addition Operations: 120
+	Number of Search Operations: 70
+	Results: 13, 43 
+
+ ------ Iteration: 6/10 Number solved: 28/50 Correctly Solved: 28/28 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 53 
+
+ ------ Iteration: 6/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 47 
+
+ ------ Iteration: 6/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 58
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 17, 41 
+
+ ------ Iteration: 8/10 Number solved: 29/50 Correctly Solved: 29/29 
+
+	Number to be decomposed: 60
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 17 
+
+ ------ Iteration: 8/10 Number solved: 30/50 Correctly Solved: 30/30 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 53 
+
+ ------ Iteration: 2/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 1, 61 
+
+ ------ Iteration: 8/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 62
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 43 
+
+ ------ Iteration: 6/10 Number solved: 31/50 Correctly Solved: 31/31 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 31, 37 
+
+ ------ Iteration: 4/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 23
+	Results: 23, 41 
+
+ ------ Iteration: 8/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 64
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 47, 17 
+
+ ------ Iteration: 6/10 Number solved: 32/50 Correctly Solved: 32/32 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 37 
+
+ ------ Iteration: 8/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 66
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 9
+	Results: 43, 23 
+
+ ------ Iteration: 6/10 Number solved: 33/50 Correctly Solved: 33/33 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 44
+	Results: 61, 7 
+
+ ------ Iteration: 10/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 41 
+
+ ------ Iteration: 4/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 61 
+
+ ------ Iteration: 4/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 71 
+
+ ------ Iteration: 2/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 23 
+
+ ------ Iteration: 2/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 67, 1 
+
+ ------ Iteration: 6/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 24
+	Results: 47, 23 
+
+ ------ Iteration: 10/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 67 
+
+ ------ Iteration: 2/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 29, 41 
+
+ ------ Iteration: 6/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 61 
+
+ ------ Iteration: 10/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 31, 43 
+
+ ------ Iteration: 4/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 73 
+
+ ------ Iteration: 2/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 5 
+
+ ------ Iteration: 6/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 59 
+
+ ------ Iteration: 4/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 68
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 31, 37 
+
+ ------ Iteration: 8/10 Number solved: 34/50 Correctly Solved: 34/34 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 73, 1 
+
+ ------ Iteration: 6/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 71, 11 
+
+ ------ Iteration: 2/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 7, 71 
+
+ ------ Iteration: 4/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 23, 61 
+
+ ------ Iteration: 2/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 70
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 59, 11 
+
+ ------ Iteration: 8/10 Number solved: 35/50 Correctly Solved: 35/35 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 5, 71 
+
+ ------ Iteration: 6/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 37 
+
+ ------ Iteration: 4/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 19, 67 
+
+ ------ Iteration: 2/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 19 
+
+ ------ Iteration: 6/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Number of Addition Operations: 75
+	Number of Search Operations: 45
+	Results: 67, 7 
+
+ ------ Iteration: 10/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 47 
+
+ ------ Iteration: 2/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 17 
+
+ ------ Iteration: 10/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 72
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 19, 53 
+
+ ------ Iteration: 8/10 Number solved: 36/50 Correctly Solved: 36/36 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 37 
+
+ ------ Iteration: 2/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 19 
+
+ ------ Iteration: 10/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 41, 41 
+
+ ------ Iteration: 4/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 74
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 13 
+
+ ------ Iteration: 8/10 Number solved: 37/50 Correctly Solved: 37/37 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 73, 7 
+
+ ------ Iteration: 6/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 73, 7 
+
+ ------ Iteration: 10/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 76
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 59 
+
+ ------ Iteration: 8/10 Number solved: 38/50 Correctly Solved: 38/38 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 29 
+
+ ------ Iteration: 10/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 78
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 61 
+
+ ------ Iteration: 8/10 Number solved: 39/50 Correctly Solved: 39/39 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 73, 19 
+
+ ------ Iteration: 2/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 53, 31 
+
+ ------ Iteration: 4/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 80
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 37 
+
+ ------ Iteration: 8/10 Number solved: 40/50 Correctly Solved: 40/40 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 23, 59 
+
+ ------ Iteration: 6/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 53 
+
+ ------ Iteration: 6/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 73, 11 
+
+ ------ Iteration: 10/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 89, 5 
+
+ ------ Iteration: 2/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 79, 7 
+
+ ------ Iteration: 6/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 83, 3 
+
+ ------ Iteration: 10/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 7, 79 
+
+ ------ Iteration: 4/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 82
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 29, 53 
+
+ ------ Iteration: 8/10 Number solved: 41/50 Correctly Solved: 41/41 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 13, 83 
+
+ ------ Iteration: 2/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 84
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 23 
+
+ ------ Iteration: 8/10 Number solved: 42/50 Correctly Solved: 42/42 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 37 
+
+ ------ Iteration: 2/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 86
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 43 
+
+ ------ Iteration: 8/10 Number solved: 43/50 Correctly Solved: 43/43 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 47, 41 
+
+ ------ Iteration: 6/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 29, 59 
+
+ ------ Iteration: 10/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 83, 5 
+
+ ------ Iteration: 4/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 88
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 71, 17 
+
+ ------ Iteration: 8/10 Number solved: 44/50 Correctly Solved: 44/44 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 43, 47 
+
+ ------ Iteration: 6/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 79 
+
+ ------ Iteration: 10/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 73, 17 
+
+ ------ Iteration: 4/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 97, 3 
+
+  Saving results in Results/results_2.npy 
+
+	Number to be decomposed: 90
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 7, 83 
+
+ ------ Iteration: 8/10 Number solved: 45/50 Correctly Solved: 45/45 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 61, 31 
+
+ ------ Iteration: 10/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 31, 61 
+
+ ------ Iteration: 8/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 47, 47 
+
+ ------ Iteration: 10/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 71, 23 
+
+ ------ Iteration: 8/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 67, 29 
+
+ ------ Iteration: 10/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 3, 89 
+
+ ------ Iteration: 4/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 43 
+
+ ------ Iteration: 8/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 53 
+
+ ------ Iteration: 4/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 79, 19 
+
+ ------ Iteration: 8/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 53, 43 
+
+ ------ Iteration: 4/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 17, 83 
+
+  Saving results in Results/results_8.npy 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 67, 31 
+
+ ------ Iteration: 10/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 11, 89 
+
+  Saving results in Results/results_10.npy 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 61, 37 
+
+ ------ Iteration: 4/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 59, 41 
+
+  Saving results in Results/results_4.npy 
+
+	Number to be decomposed: 92
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Try 3 of 10 tries.
+	Number of iterations: 3
+	Try 4 of 10 tries.
+	Number of iterations: 4
+	Number of Addition Operations: 120
+	Number of Search Operations: 70
+	Results: 61, 31 
+
+ ------ Iteration: 6/10 Number solved: 46/50 Correctly Solved: 46/46 
+
+	Number to be decomposed: 94
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 5, 89 
+
+ ------ Iteration: 6/10 Number solved: 47/50 Correctly Solved: 47/47 
+
+	Number to be decomposed: 96
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Try 2 of 10 tries.
+	Number of iterations: 2
+	Number of Addition Operations: 40
+	Number of Search Operations: 25
+	Results: 79, 17 
+
+ ------ Iteration: 6/10 Number solved: 48/50 Correctly Solved: 48/48 
+
+	Number to be decomposed: 98
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 97, 1 
+
+ ------ Iteration: 6/10 Number solved: 49/50 Correctly Solved: 49/49 
+
+	Number to be decomposed: 100
+	Try 1 of 10 tries.
+	Number of iterations: 1
+	Number of Addition Operations: 15
+	Number of Search Operations: 10
+	Results: 41, 59 
+
+  Saving results in Results/results_6.npy 
+Program Task_1 finished in 92m 34s 

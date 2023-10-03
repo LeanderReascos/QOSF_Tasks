@@ -108,3 +108,162 @@ def Schmidt_decomposition_based_preparation(psi:np.ndarray, n:int, all_parts:boo
         state_preparation_gate = qc.to_gate()
         state_preparation_gate.name = "State Preparation"
         return state_preparation_gate
+    
+
+import time
+import logging
+from pathlib import Path
+
+
+def prepare_message(method):
+    def wrapper(ref, *messages):
+        message = ''
+        if len(messages) == 0:
+            method(ref, message)
+        for m in messages:
+            message += str(m) + ' '
+        method(ref, message)
+    return wrapper
+
+class CustomLoggerFilter(logging.Filter):
+    def __init__(self, logger_name, name: str = "") -> None:
+        super().__init__(name)
+        self.logger_name = logger_name
+
+    def filter(self, record):
+        return record.name == self.logger_name
+
+class log:
+    def __init__(self, program, title, level=logging.INFO, flush: bool = False):
+        Path(program).parent.mkdir(parents=True, exist_ok=True)
+
+        self.program = program
+        self.title = title
+        self.level = level
+        self.flush = flush
+        logging.basicConfig(filename=program+'.log',
+                            filemode='w',
+#                            encoding='utf-8',
+                            format='%(message)s',
+                            datefmt='%m/%d/%Y %H:%M:%S',
+                            level=level)
+        self.logger = logging.getLogger(program)
+        self.filter = CustomLoggerFilter(self.logger.name)
+
+        self.STARTTIME = time.time()
+
+        self.logger.addFilter(self.filter)
+
+        ch = logging.StreamHandler()
+        ch.addFilter(self.filter)
+        ch.setLevel(logging.WARNING)
+        ch.setFormatter(logging.Formatter('%(message)s'))
+        self.logger.addHandler(ch)
+
+    @prepare_message
+    def debug(self, message):
+        if self.flush:
+            print(message, flush=True)
+        self.logger.debug(message)
+
+    @prepare_message
+    def info(self, message):
+        if self.flush:
+            print(message, flush=True)
+        self.logger.info(message)
+
+    @prepare_message
+    def error(self, message):
+        if self.flush:
+            print(message, flush=True)
+        self.logger.error(message)
+
+    @prepare_message
+    def warning(self, message):
+        if self.flush:
+            print(message, flush=True)
+        self.logger.warning(message)
+    
+    def footer(self):
+        time_sec = time.time() - self.STARTTIME
+        time_hour = time_sec//3600
+        time_min = (time_sec - time_hour*3600)//60
+        time_sec = time_sec - time_hour*3600 - time_min*60
+
+        self.info(f'Program {self.program} finished in {time_hour:.0f}h {time_min:.0f}m {time_sec:.0f}s')
+
+import os
+from multiprocessing import Process, Manager
+from functools import partial
+from typing import Callable, Union
+
+def parallelize(process_name: str, f: Callable, iterator: Union[list, np.ndarray], *args, n_process=os.cpu_count(), logger=None) -> np.ndarray:
+        '''
+        Create processes for some function f over an iterator.
+        Parameters
+            process_name : string
+                The name of the process to be parallelized.
+            f : Callable
+                Function f(iterator: array_like, *args) to be applied.
+                This function gets another iterator as a parameter and will compute the result for each element in the iterator.
+            iterator : array_like
+                The function f is applied to elements in the iterator array.
+            verbose : bool
+                If this flag is true the progress bar is shown.
+        
+        Return
+            result : array_like
+                It contains the result for each value inside the iterator.
+                The information is not sorted.
+        '''
+        process = []
+        iterator = list(iterator)
+        N = len(iterator)
+
+        ###########################################################################
+        # Debug information and Progress bar
+        ###########################################################################
+
+        logger = log('parallelize', process_name, level=logging.INFO) if logger is None else logger
+        logger.info(f'Starting Parallelization for {process_name} with {N} values. Number of processes: {n_process}')
+
+        ###########################################################################
+        # Processes management
+        ###########################################################################
+        def parallel_f(result: np.ndarray, per: list[int], iterator: Union[list, np.ndarray], *args) -> None:
+            '''
+            Auxiliar function to help the parallelization
+            Parameters:
+                result : array_like
+                    It is a shared memory list where each result is stored.
+                per : list[int]
+                    It is a shared memory list that contais the number of elements solved.
+                iterator : array_like
+                    The function f is applied to elements in the iterator array.
+            '''
+            value = f(iterator, *args)              # The function f is applied to the iterator
+            if value is not None:
+                # The function may not return anything
+                result += value        # Store the output into result array
+            per[0] += len(iterator)                 # The counter is actualized
+            
+            logger.debug(f'Process {process_name} finished {per[0]} of {N} values.')
+        
+        result = Manager().list([])             # Shared Memory list to store the result
+        per = Manager().list([0])               # Shared Memory to countability the progress
+        f_ = partial(parallel_f,  result, per)  # Modified function used to create processes
+
+        n = N//n_process                                                   # Number or processes
+        for i_start in range(n_process):
+            # Division of the iterator array into n smaller arrays
+            j_end = n*(i_start+1) if i_start < n_process-1\
+                else n*(i_start+1) + N % n_process
+            i_start = i_start*n
+            p = Process(target=f_, args=(iterator[i_start: j_end], *args))      # Process creation
+            p.start()                                                           # Initialize the process
+            process.append(p)
+
+        while len(process) > 0:
+            p = process.pop(0)
+            p.join()
+        return np.array(result)
