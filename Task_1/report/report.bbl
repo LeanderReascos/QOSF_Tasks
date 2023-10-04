@@ -1,7 +1,39 @@
 \begin{thebibliography}{1}
 
+\bibitem{wang2002goldbach}
+Yuan Wang.
+\newblock {\em The Goldbach Conjecture}, volume~4.
+\newblock World scientific, 2002.
+
+\bibitem{richstein2001verifying}
+J{\"o}rg Richstein.
+\newblock Verifying the goldbach conjecture up to 4⋅ 10$^1$⁴.
+\newblock {\em Mathematics of computation}, 70(236):1745--1749, 2001.
+
+\bibitem{collins1998deutsch}
+David Collins, KW~Kim, and WC~Holton.
+\newblock Deutsch-jozsa algorithm as a test of quantum computation.
+\newblock {\em Physical Review A}, 58(3):R1633, 1998.
+
 \bibitem{grover1996fast}
 Lov~K. Grover.
 \newblock A fast quantum mechanical algorithm for database search, 1996.
+
+\bibitem{latorre2013quantum}
+Jose~I Latorre and German Sierra.
+\newblock Quantum computation of prime number functions.
+\newblock {\em arXiv preprint arXiv:1302.6245}, 2013.
+
+\bibitem{prudencio2013goldbach}
+Thiago Prud{\^e}ncio and Edilberto~O Silva.
+\newblock Goldbach conjecture sequences in quantum mechanics.
+\newblock {\em arXiv preprint arXiv:1303.6476}, 2013.
+
+\bibitem{brassard1998quantum}
+Gilles Brassard, Peter H{\o}yer, and Alain Tapp.
+\newblock Quantum counting.
+\newblock In {\em Automata, Languages and Programming: 25th International
+  Colloquium, ICALP'98 Aalborg, Denmark, July 13--17, 1998 Proceedings 25},
+  pages 820--831. Springer, 1998.
 
 \end{thebibliography}

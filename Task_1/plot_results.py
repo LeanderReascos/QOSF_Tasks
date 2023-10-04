@@ -140,7 +140,7 @@ def plot_complexity(Numbers:np.ndarray, N_simulations:int, path:str='Results/'):
     ax.set_yscale('log')
     handles, labels = ax.get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
-    ax.legend(by_label.values(), by_label.keys())
+    ax.legend(by_label.values(), by_label.keys(), fontsize=20)
     ax.set_xlabel('$N$', fontsize=30)
 
     fig.tight_layout()

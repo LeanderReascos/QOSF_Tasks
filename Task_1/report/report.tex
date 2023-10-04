@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{article}
+\documentclass[aps,prapplied,longbibliography]{article}
 \input{utils.tex}
 
 \title{QOSF Mentorship Program: Task 1}
@@ -7,15 +7,17 @@
 \begin{document}
     \maketitle
 
+    \begin{abstract}
+        This work introduces a quantum algorithm aimed at verifying Goldbach's conjecture, a famous mathematical hypothesis asserting that any even integer greater than two can be expressed as the sum of two prime numbers. Leveraging quantum parallelism and the Grover's algorithm, our proposed quantum circuit efficiently searches for pairs of prime numbers that satisfy this conjecture. Through comprehensive analysis and simulations, we demonstrate that the quantum approach exhibits a superior asymptotic complexity of $\mathcal{O}(N)$ compared to the classical approach's $\mathcal{O}(N^2)$, making it increasingly efficient as problem size grows. Our results confirm the practical viability of the proposed quantum circuit and underscore the potential of quantum computing in tackling complex mathematical challenges.
+    \end{abstract}
+
     \section{Introduction}
 
-    This report aims to illustrate the solution to Task 1 of the Screening task for the QOSF Mentorship Program. Task 1 requires finding two prime numbers from a given list that sum up to a positive integer.
+    This report aims to illustrate the solution to Task 1 of the Screening task for the QOSF Mentorship Program. Task 1 requires finding two prime numbers from a given list that sum up to a positive integer. Firstly, it is clear that the task involves developing a quantum algorithm to verify Goldbach's conjecture. In simple terms, Goldbach's conjecture states that any even integer greater than two can be expressed as the sum of two prime numbers \cite{wang2002goldbach}. While this conjecture remains unsolved, significant efforts have been made to prove it. Consequently, various classical algorithms have been developed to test this conjecture with very large numbers such as $4\cdot10^{14}$ \cite{richstein2001verifying}.
 
-    Firstly, it is clear that the task involves developing a quantum algorithm to verify Goldbach's conjecture. In simple terms, Goldbach's conjecture states that any even integer greater than two can be expressed as the sum of two prime numbers. While this conjecture remains unsolved, significant efforts have been made to prove it. Consequently, various classical algorithms have been developed to test this conjecture with very large numbers.
+    Therefore, quantum computers could play a significant role in verifying this conjecture. This can be achieved by harnessing quantum parallelism, which enables operations to be applied to a superposition of states. This approach reduces the computational workload, as illustrated by the Deutsch-Jozsa algorithm, which serves as a compelling example of this concept \cite{collins1998deutsch}. The Deutsch-Jozsa algorithm efficiently verifies a function by determining whether it is constant or balanced, and it does so exponentially faster on a quantum computer compared to classical methods \cite{collins1998deutsch}.
 
-    Therefore, quantum computers could play a significant role in verifying this conjecture. This can be achieved by harnessing quantum parallelism, which enables operations to be applied to a superposition of states. This approach reduces the computational workload, as illustrated by the Deutsch-Jozsa algorithm, which serves as a compelling example of this concept. The Deutsch-Jozsa algorithm efficiently verifies a function by determining whether it is constant or balanced, and it does so exponentially faster on a quantum computer compared to classical methods.
-
-    However, to extract meaningful information from these quantum operations, it is essential to devise a way to measure only the desired outcome accurately. In this context, Grover's algorithm \cite{grover1996fast} emerges as the preferred method to pursue, as it provides a technique to amplify the probability of measuring the desired outcome, making it a powerful tool for quantum computation tasks like verifying Goldbach's conjecture.
+    However, to extract meaningful information from these quantum operations, it is essential to devise a way to measure only the desired outcome accurately. In this context, Grover's algorithm \cite{grover1996fast} emerges as the preferred method to pursue, as it provides a technique to amplify the probability of measuring the desired outcome, making it a powerful tool for quantum computation tasks like verifying Goldbach's conjecture \cite{latorre2013quantum, prudencio2013goldbach}.
 
 
     \section{Classical approach}
@@ -23,7 +25,7 @@
     Since in this report we are only going to compare our quantum approach with the naive classical approach this section aims to explain what it is this classical method to evaluate the Golbach's conjecture. Thus, let's consider a number $n$ which we want to find the two prime numbers  $p$ and $q$ that added results in this number. These prime numbers $p$ and $q$ are contained in a list of $N$ prime numbers.
 
     \begin{equation}
-        n = p + q,\hspace{1cm}p,q\in\text{Prrimes}
+        n = p + q,\hspace{1cm}p,q\in\text{Primes}
     \end{equation}
 
     Therefore, the naive classical approach consists of taking the list of $N$ numbers and computing all possible sums of two numbers, resulting in a search space of $N^2$. This can be illustrated in the table \ref{tab:SumsClassical}.
@@ -121,11 +123,11 @@
 
     \subsection{Grover's Algorithm}
 
-    However, having all the possible results doesn't solve the problem, as when the registers are measured, the information collapses with equal probability for each sum. To address this challenge, we employ Grover's algorithm. This quantum algorithm is designed to search for a specific element or elements in an unindexed database and has a complexity on the order of $\mathcal{O}_s(\sqrt{N})$, where $N$ represents the number of elements in the dataset.
+    However, having all the possible results doesn't solve the problem, as when the registers are measured, the information collapses with equal probability for each sum. To address this challenge, we employ Grover's algorithm. This quantum algorithm is designed to search for a specific element or elements in an unindexed database and has a complexity on the order of $\mathcal{O}_s(\sqrt{N})$, where $N$ represents the number of elements in the dataset \cite{grover1996fast}.
 
     Therefore, by utilizing Grover's algorithm, we can enhance the probability of measuring the state that encodes the result. In simpler terms, we aim to measure the state $\ket{p}\ket{p+q}$ such that $n = p+q$, where $n$ is our target integer to be expressed in terms of two prime numbers, $p$ and $q$.
 
-    The Grover's algorithm used in this project is its generalized version since the search space is not a uniform superposition over all possible states encoded by the qubits. Instead, the search space is a uniform superposition over all possible sums of two prime integers contained in a given list. Thus, the generalized Grover iterator operator $G$ for this particular problem can be seen below.
+    The Grover's algorithm used in this project is its generalized version since the search space is not a uniform superposition over all possible states encoded by the qubits. Instead, the search space is a uniform superposition over all possible sums of two prime integers contained in a given list. Thus, the generalized Grover iterator operator $G$ for this particular problem can be seen below \cite{brassard1998quantum}.
 
     \begin{equation}
         G = U^+ S_0 (U^+)^{\dagger} S_{n}
@@ -164,7 +166,7 @@
         \label{fig:QCG}
     \end{figure}
 
-    One possible solution to overcome the challenge of determining the ideal number of Grover's iterations is to employ the Quantum Counting algorithm, which applies the Quantum Phase Estimation (QPE) algorithm to the Grover iterator $G$. However, due to the additional executions and the increased quantum resources required to implement this approach, we have chosen to use the iterative search method as described previously. Nevertheless, the option of using Quantum Counting remains a viable possibility.
+    One possible solution to overcome the challenge of determining the ideal number of Grover's iterations is to employ the Quantum Counting algorithm, which applies the Quantum Phase Estimation (QPE) algorithm to the Grover iterator $G$ \cite{brassard1998quantum}. However, due to the additional executions and the increased quantum resources required to implement this approach, we have chosen to use the iterative search method as described previously. Nevertheless, the option of using Quantum Counting remains a viable possibility.
 
     \section{Results}
 
@@ -190,11 +192,30 @@
 
     \subsection{Simulation Results}
 
-    To effectively verify if the algorithm works and compare the actual complexity with the previous analysis, we conducted a simulation of the quantum circuit to find prime numbers $p$ and $q$ that, when added, yield $n$ for even integers $n$ in the range $[2, 100]$. This simulation involved a list of all prime numbers from $1$ to $n$ (not inclusive). The simulation parameters used were $N_\text{shoots}=5$, $max_\text{tries}=10$, and $max_\text{iterations}=5$. We counted the number of additions and searches performed. Additionally, it's worth noting that we also considered a classical search process required to verify the results of the $N_{\text{shoots}}$ simulation.
+    To effectively verify if the algorithm works and compare the actual complexity with the previous analysis, we conducted a simulation of the quantum circuit to find prime numbers $p$ and $q$ that, when added, yield $n$ for even integers $n$ in the range $[2, 100]$. This simulation involved a list of all prime numbers from $1$ to $n$ (not inclusive). The simulation parameters used were $N_\text{shoots}=5$, $max_\text{tries}=10$, and $max_\text{iterations}=5$. We counted the number of additions and searches performed. Additionally, it's worth noting that we also considered a classical search process required to verify the results of the $N_{\text{shoots}}$ simulation. The simulation described above was repeated 10 times to obtain statistical results regarding the complexity of the proposed quantum circuit. 
+
+    Furthermore, the results were verified for all the integers $n$ under analysis, and the proposed quantum circuit successfully solved the problem for all of them. The number of additions and searches performed to obtain the result for a given array of $N$ prime numbers is depicted in Figure \ref{fig:Results}. In the figure, it is possible to see that for small-sized lists of primes, the classical approach remains better than our solution. However, as the size of the problem increases, the quantum solution proposed in this work outperforms the classical solution. It becomes evident that the complexity of the quantum algorithm scales as described in the previous quantum complexity analysis, at least within the statistical error considered in this study.
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.8\textwidth]{../Results/Results.pdf}
+        \caption{The plot illustrates the comparison of the number of additions (yellow) and searches (green) required to solve the problem for different sizes of prime number lists $N$. As the size $N$ of the problem increases, the proposed quantum circuit outperforms the classical approach, demonstrating its scalability and efficiency. The asymptotic complexity of the naive classical solution is $\mathcal{O}(N^2)$ (red), while the theoretical quantum asymptotic complexity is $\mathcal{O}(N)$ (blue).}
+        \label{fig:Results}
+    \end{figure}
+
+    \section{Conclusion}
+
+    In conclusion, this work has presented a quantum algorithm for verifying Goldbach's conjecture, a mathematical hypothesis that posits that any even integer greater than two can be expressed as the sum of two prime numbers. The proposed quantum circuit leverages quantum parallelism and the Grover's algorithm to efficiently search for pairs of prime numbers that add up to a given even integer.
+
+    Through a comprehensive analysis, it has been shown that the quantum approach exhibits a favorable asymptotic complexity of $O(N)$ compared to the naive classical approach, which has an asymptotic complexity of $\mathcal{O}(N^2)$. This indicates that as the size of the problem grows, the quantum solution becomes significantly more efficient than its classical counterpart.
+
+    Simulation results have confirmed the effectiveness of the proposed quantum circuit, solving the problem for various even integers and prime number lists. While the classical approach remains competitive for small-sized prime lists, the quantum solution shines as the problem size increases.
+
+    Overall, this study demonstrates the potential of quantum computing to tackle complex mathematical problems efficiently and highlights the scalability and efficiency advantages of quantum algorithms in comparison to classical methods. The findings encourage further exploration of quantum computing's capabilities in addressing mathematical conjectures and computational challenges.
 
 
     \nocite{*}
+    \bibliographystyle{unsrt}
     \bibliography{bibliography}
-    \bibliographystyle{plain}
 
 \end{document}
